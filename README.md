@@ -1,3 +1,12 @@
+# Lista de Tarefas
+
+### Pagina web desenvolvida com a finalidade de estudos em react, onde pude aprofundar meus conhecimentos sobre como o ciclo de vida de um componente funciona, desde o seu nascimento até a sua morte, utilizar o useEffect para resolver um problema que tive e vi como esse hook é importante no ecossistema React, criei uma função recursiva para resolver o problema da contagem regressiva, aprendi como refatorar um class component para function component e o porque de fazer essa migração atualmente.  
+
+<br>
+<br>
+<br>
+    
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
